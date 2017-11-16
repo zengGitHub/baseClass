@@ -12,5 +12,6 @@
 
 -(void)initCellWithModel:(id) model{
 //子类中重写
+    NSLog(@"99999");
 }
 @end
